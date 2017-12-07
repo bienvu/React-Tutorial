@@ -6,7 +6,7 @@
 4. Update function (in new page)
 5. Confirm before delete (popup)
 
-#### After this exercises you'll achieve:
+#### After those exercises you'll achieve:
 
 * Workspace setup
 * How to use webpack, babel 
