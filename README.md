@@ -4,6 +4,6 @@
 
 3: Add new function (in new page)
 
-4: Update funciton (in new page)
+4: Update function (in new page)
 
 5: Confirm before delete (popup)
