@@ -10,8 +10,8 @@ a{
 	text-decoration: none;
 }
 #container{
-	height: 631px;
-	position: relative;
+	max-width: 960px;
+	margin: 0 auto;
 }
 .clr{
 	clear: both;
